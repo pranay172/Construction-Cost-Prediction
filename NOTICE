@@ -1,0 +1,11 @@
+Construction Cost Prediction
+Copyright 2026 Pranay Vandanapu
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The license covers the code in this repository only. It does not cover the
+competition data or other content provided by Solafune Inc. or the original
+data providers, which is not included in this repository and may not be
+redistributed. Pretrained model weights (Prithvi EO 2.0 and the models used
+by AutoGluon's extreme preset) are downloaded separately and remain under
+their own licenses.
